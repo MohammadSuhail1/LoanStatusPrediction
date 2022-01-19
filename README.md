@@ -43,3 +43,6 @@ And this model will show the status of the loan.
 
 ![image](https://user-images.githubusercontent.com/78692000/150076811-559fae53-4819-40a5-aade-7ff3f31b5c1a.png)
 
+
+Project Demo
+https://drive.google.com/file/d/1pXchkD4g6xUXz1fgzHN0okt6fjgqy_X7/view?usp=sharing

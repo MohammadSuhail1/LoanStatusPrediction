@@ -38,3 +38,8 @@ learning techniques performs the best default prediction. The research question 
 The loan Status Prediction model will help the Banks, Housing Finance Companies in finding the 
 various types of loans like housing loan, personal loan, business loan, etc. is accepted or not. 
 And this model will show the status of the loan.
+
+
+
+![image](https://user-images.githubusercontent.com/78692000/150076811-559fae53-4819-40a5-aade-7ff3f31b5c1a.png)
+
